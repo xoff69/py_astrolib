@@ -1,3 +1,8 @@
+# Par Christophe PICHON
+# xoff.company@gmail.com
+# ASTRO LIB
+# ---------------------------
+
 import sys 
 import numpy as np
 import matplotlib.pyplot as plt
