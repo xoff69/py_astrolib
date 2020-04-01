@@ -69,11 +69,3 @@ def distanceAL(H0,z):
 
 def lambdadebroglie(m,v):
     return h/(m*v)
-
-zc=zcalc(6970,6562)
-print("z=",zc)
-v=vitessegalaxie(zc)
-print(quick_ordre_id(v))
-print((distanceAL(70*1000,zc)))
-print(quick_ordre_id(distanceAL(70*1000,zc)))
-print(B_v(5,5))
